@@ -1,2 +1,2 @@
-# C-35
-created by Anish Sonar
+# C35_SynchronousBallMoment_StudentActivity
+Student Activity
